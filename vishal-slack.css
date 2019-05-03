@@ -9,11 +9,11 @@
     --background: #000;
     --background-elevated: #e74c3c;
     /* These should be less important: */
-    --background-hover: #525964;
+    --background-hover:#e74c3c;
     --background-light: #aaa;
     --background-bright: #fff;
     --border-dim: #666;
-    --border-bright: var(--primary);
+    --border-bright: #e74c3c;
     --text-bright: #fff;
     --text-dim: #555c69;
     --text-special: var(--primary);
