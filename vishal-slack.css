@@ -7,18 +7,18 @@
     --accent: #568af2;
     --text: rgb(240, 236, 236);
     --background: #000;
-    --background-elevated: #444;
+    --background-elevated: #e74c3c;
     /* These should be less important: */
     --background-hover: #525964;
     --background-light: #aaa;
     --background-bright: #fff;
     --border-dim: #666;
-    --border-bright: #e74c3c;
+    --border-bright: var(--primary);
     --text-bright: #fff;
     --text-dim: #555c69;
     --text-special: var(--primary);
     --text-accent: var(--text-bright);
-    --scrollbar-background: #222;
+    --scrollbar-background: #e74c3c;
     --scrollbar-border: var(--primary);
     --yellow: rgb(250, 207, 33);
     --green: #76f51c;
