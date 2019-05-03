@@ -13,7 +13,7 @@
     --background-light: #aaa;
     --background-bright: #fff;
     --border-dim: #666;
-    --border-bright: #e74c3c;
+    --border-bright: var(--primary);
     --text-bright: #fff;
     --text-dim: #555c69;
     --text-special: var(--primary);
